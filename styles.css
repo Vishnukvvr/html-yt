@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 30px;
+}
+.tags{
+    display: flex;
+    gap: 20px;
+}
+.tag{
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 30px;
+    
+}
+h1,h2{
+    font-size: 6rem;
+    text-align: center;
+    border-top: 5px solid rgb(70, 69, 69);
+}
+.code{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 30px;
+}
+.para1{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+}
+.para2{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+    color: green;
+}
+.para3{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+
+}
+.para4{
+        font-size: 2rem;
+        font-weight: bold;
+        text-align: center;
+        margin: 50px;
+}
